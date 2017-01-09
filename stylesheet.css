@@ -1,0 +1,39 @@
+
+#name {
+    font-family:Times;
+    font-size:20px;
+    weight:bold;
+    text-align:center;
+
+}
+#headshot {
+    float:left;
+    border-radius:50px;
+    width:50px;
+    display:block;
+    ;
+}
+
+#left {
+    width:20%;
+    border: 1px solid red;
+    display:block;
+    //height:auto;
+    position:absolute;
+}
+
+#right {
+    display:block;
+    width:80%;
+    border:2px solid blue:
+  //  height:auto;
+}
+
+
+.contact {
+  border:1px solid green;
+  display:block;
+  width:100%;
+  text-align:center;
+
+}
